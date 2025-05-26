@@ -1,4 +1,5 @@
-Анализ данных интернет-магазина Анализ данных из Kaggle с использованием Python (Pandas), PostgreSQL, Excel и PowerPoint
+Анализ данных международного магазина
+Анализ данных из Kaggle с использованием Python (Pandas), PostgreSQL, Excel и PowerPoint
 
 Ссылка на Kaggle: https://www.kaggle.com/datasets/kapoorprakhar/shop-direct-sale-e-commerce-dataset
 
